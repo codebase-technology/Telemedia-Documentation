@@ -5,5 +5,7 @@
 
 [Version 1.2.0 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.0/1.2.0.md)
 
+[Version 1.2.1 and 1.2.2 Rollup Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.1 and 1.2.2/1.2.1 and 1.2.2 rollup.md)
+
 [Feature Codes](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/FeatureCodes.md)
 
