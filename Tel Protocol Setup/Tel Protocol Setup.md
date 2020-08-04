@@ -35,6 +35,9 @@
 
 9. Scroll down to the 'TEL *(URL:Tel)*' protocol
 
-10. Click on the corresponding app button to choose TelProDialer from the list
+10. Click on the corresponding app button to choose 'TelProDialer' from the list
 
-![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/permissions.jpg)
+![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/protocol.jpg)
+
+11. Close 'Default Apps'
+12. Create
