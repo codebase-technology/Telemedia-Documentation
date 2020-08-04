@@ -4,7 +4,10 @@
 
 1. Create a new folder location 'C:\CCG\TelProDialer'
 2. Download in un-compress TelProDialer.zip into the above location
-3. Make the above location 
+
+![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/)
+
+1. Make the above location 
 
 
 
