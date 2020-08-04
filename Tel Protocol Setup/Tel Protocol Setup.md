@@ -2,18 +2,18 @@
 
 ***<u>Windows Tel Protocol Setup for Click2Dial</u>***
 
-1. Create a new folder location 'C:\CCG\TelProDialer'
-2. Download in de-compress TelProDialer.zip into the above location
-   1. Your administrator will provide a link to TelProDialer.zip
-   2. Your folder should now look like the below
+1. Create a new folder location 'C:\CCG\TelProDialer'.
+2. Download and de-compress TelProDialer.zip into the above location.
+   1. Your administrator will provide a link to TelProDialer.zip.
+   2. Your folder should now look like the below.
 
 ![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/contents.jpg)
 
-3. Make the above location full control for everyone
+3. Make the above location full control for everyone.
 
 ![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/permissions.jpg)
 
-4. Double click on the 'Setup.reg' file to add the required registry entries
+4. Double click on the 'Setup.reg' file to add the required registry entries.
 
 <img src="https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/reg.jpg" style="zoom:50%;" />
 
@@ -29,15 +29,20 @@
 
 6. Save and close the file.
 
-7. Open 'Default Apps'
+7. Open 'Default Apps'.
 
-8. Click on 'Choose default apps by protocol'
+8. Click on 'Choose default apps by protocol'.
 
-9. Scroll down to the 'TEL *(URL:Tel)*' protocol
+9. Scroll down to the 'TEL *(URL:Tel)*' protocol.
 
-10. Click on the corresponding app button to choose 'TelProDialer' from the list
+10. Click on the corresponding app button to choose 'TelProDialer' from the list.
 
 ![re-provision](https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/protocol.jpg)
 
-11. Close 'Default Apps'
-12. Create
+11. Close 'Default Apps'.
+12. Create a simple test html file with a tel link as shown below, changing the number to your mobile number.
+
+<img src="https://github.com/codebase-technology/Telemedia-Documentation/raw/master/Tel%20Protocol%20Setup/images/test.jpg" alt="re-provision" style="zoom:50%;" />
+
+13. Open the test html file in your browser and click on the link to see if the phone dials as expected.
+14. You may get a message on the phone's display asking if you want to allow remote access, which you must allow.
