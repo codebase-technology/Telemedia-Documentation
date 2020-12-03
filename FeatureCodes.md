@@ -24,6 +24,8 @@
 
 *2 - Transfer
 
+*3 - Complete 3 way conf
+
 \#1 - Pause Recording
 
 \#3 - Unpause Recording
