@@ -9,6 +9,8 @@
 
 [Version 1.2.3 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.3/1.2.3.md)
 
+[Version 1.2.4 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.4/1.2.4.md)
+
 [Feature Codes](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/FeatureCodes.md)
 
 [Tel Pro Dialer Setup](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/Tel%20Protocol%20Setup/Tel%20Protocol%20Setup.md)
