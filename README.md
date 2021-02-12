@@ -15,6 +15,8 @@
 
 [Version 1.2.6 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.6/1.2.6.md)
 
+[Version 1.2.7 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/1.2.7/1.2.7.md)
+
 [Feature Codes](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/FeatureCodes.md)
 
 [Tel Pro Dialer Setup](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/Tel%20Protocol%20Setup/Tel%20Protocol%20Setup.md)
