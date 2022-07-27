@@ -1,5 +1,5 @@
 # Telemedia Documentation
-### Documentation for the private project: Telemedia Business System
+### Documentation for the private project: Telemedia Business System 
 
 [Version 2.0.6 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.0.6/2.0.6.md)
 
