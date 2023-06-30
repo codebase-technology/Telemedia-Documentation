@@ -1,6 +1,8 @@
 # Telemedia Documentation
 ### Documentation for the private project: Telemedia Business System 
 
+[Feature Codes](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/FeatureCodes.md)
+
 [Version 2.1.3 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.1.3/2.1.3.md)
 
 [Version 2.1.2 Changelog](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.1.2/2.1.2.md)
