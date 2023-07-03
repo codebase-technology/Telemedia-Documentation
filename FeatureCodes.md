@@ -20,10 +20,10 @@
 
 `*208` -    (BETA) - Enable divert to destination at the CLI level (individually) rather than company level  
         
-* **Syntax**: `*208{3 digit destination}{destination number}{CLI to apply to}`
+* **Syntax**: `*208-{3 digit destination}-{destination number}-{CLI to apply to}`
 * **Implementaion**: The above feature code should inserted as a speed dial on an extension's keys
-* **Example**: `*208vms890+441618509122` (This will send all calls for +441618509122 to voicemail box 890)
-* **Example**: `*208grp821+441618509122` (This will send all calls for +441618509122 to group 821)
+* **Example**: `*208-vms-890-+441618509122` (This will send all calls for +441618509122 to voicemail box 890)
+* **Example**: `*208-grp-821-+441618509122` (This will send all calls for +441618509122 to group 821)
 
 ### Hotdesk
 
