@@ -3,6 +3,8 @@
 
 [Feature Codes](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/FeatureCodes.md)
 
+[Version 2.1.9 Change log](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.1.9/2.1.9.md)
+
 [Version 2.1.8 Change log](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.1.8/2.1.8.md)
 
 [Version 2.1.7 Change log](https://github.com/codebase-technology/Telemedia-Documentation/blob/master/2.1.7/2.1.7.md)
