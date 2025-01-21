@@ -28,15 +28,22 @@
 ### Hotdesk
 
 `*220` -    Hotdesk Login
+
 `*221` -    Hotdesk Logout
+
 `*222` -    Hotdesk Admin Logout (PIN = 7510)
 
 ### Relay Switches
 
 `*291` -    Realy1 On/Off
+
 `*292` -    Realy2 On/Off
+
 `*293` -    Realy3 On/Off
+
 `*294` -    Realy4 On/Off
+
+`*295` -    TCP Client app to send signal to rPi Bridge relay
 
 ### Tech
 
@@ -45,13 +52,17 @@
 ### Conference
 
 `*210` -     Conference Room 1
+
 `*211` -     Conference Room 2
+
 `*212` -     Conference Room 3
 
 ### Transfer
 
 `*1` - Cancel transfer or 3 way conf
+
 `*2` - Transfer
+
 `*3` - Complete 3 way conf
 
 ### Recording
