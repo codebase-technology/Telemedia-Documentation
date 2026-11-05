@@ -26,6 +26,7 @@
 * **Example**: `*208*grp*821*+441618509122` (This will send all calls for +441618509122 to group 821)
 
 `*901` -    One Shot CLI Override
+
 **Example**: `*90101611234567` (A beep will be heard to confirm acceptance - then one call can dial out displaying 01611234567 as the CLI)
 
 ### Hotdesk
