@@ -27,7 +27,8 @@
 
 `*901` -    One Shot CLI Override
 
-**Example**: `*90101611234567` (A beep will be heard to confirm acceptance - then one call can dial out displaying 01611234567 as the CLI)
+* **Syntax**: `*901{11 digit CLI}`
+* **Example**: `*90101611234567` (A beep will be heard to confirm acceptance - then a single call can dial out displaying 01611234567 as the CLI)
 
 ### Hotdesk
 
